@@ -14,12 +14,11 @@
 
 ---
 
-<!-- ℹ️  The card below only renders once LEETCODE_USERNAME is set in scripts/generate_readme.py -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/REPLACE_ME?theme=dark&font=Baloo%202&ext=heatmap"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/REPLACE_ME?theme=light&font=Baloo%202&ext=heatmap"/>
-  <img src="https://leetcard.jacoblin.cool/REPLACE_ME?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="200"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/parth_galgotias?theme=dark&font=Baloo%202&ext=heatmap"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/parth_galgotias?theme=light&font=Baloo%202&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/parth_galgotias?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="200"/>
 </picture>
 </div>
 
@@ -126,7 +125,7 @@ Leetcode-Daily/
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-parth10march-00b8a3?style=flat-square&logo=github&labelColor=1a1a2e)](https://github.com/parth10march)
-[![LeetCode](https://img.shields.io/badge/LeetCode-REPLACE_ME-ffc01e?style=flat-square&logo=leetcode&logoColor=fff&labelColor=1a1a2e)](https://leetcode.com/REPLACE_ME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-parth_galgotias-ffc01e?style=flat-square&logo=leetcode&logoColor=fff&labelColor=1a1a2e)](https://leetcode.com/parth_galgotias/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-REPLACE_ME-0a66c2?style=flat-square&logo=linkedin&labelColor=1a1a2e)](https://linkedin.com/in/REPLACE_ME)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b8a3&height=80&section=footer" width="100%" alt="footer"/>

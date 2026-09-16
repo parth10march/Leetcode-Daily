@@ -21,7 +21,7 @@ from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 GITHUB_USERNAME   = "parth10march"
-LEETCODE_USERNAME = "REPLACE_ME"   # TODO: replace with your LeetCode handle (e.g. "parth10march")
+LEETCODE_USERNAME = "parth_galgotias"  # https://leetcode.com/u/parth_galgotias/
 LINKEDIN_USERNAME = "REPLACE_ME"   # TODO: replace with your LinkedIn handle
 DISPLAY_NAME      = "Parth Arjun Shukla"
 ACCENT_COLOR      = "00b8a3"       # hex, no leading '#'  — LeetCode Easy teal
