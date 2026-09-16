@@ -1,0 +1,29 @@
+# ─── Language statistics ───────────────────────────────────────────────────────
+# Tell GitHub's linguist that Markdown is documentation, not the primary language.
+# Solution files (Java, Python, etc.) will dominate the language bar.
+
+*.md          linguist-detectable=false
+*.md          linguist-documentation=true
+
+# Explicitly mark all supported solution languages as detectable
+*.java        linguist-detectable=true
+*.py          linguist-detectable=true
+*.cpp         linguist-detectable=true
+*.c           linguist-detectable=true
+*.js          linguist-detectable=true
+*.ts          linguist-detectable=true
+*.kt          linguist-detectable=true
+*.go          linguist-detectable=true
+*.rs          linguist-detectable=true
+*.swift       linguist-detectable=true
+*.rb          linguist-detectable=true
+*.cs          linguist-detectable=true
+*.scala       linguist-detectable=true
+
+# ─── Line endings ─────────────────────────────────────────────────────────────
+# Normalise to LF in the repo; check-out behaviour depends on core.autocrlf
+* text=auto
+
+# Generated / data files — treat as binary to avoid mangled diffs
+stats.json    binary
+topics.json   binary

@@ -1,4 +1,139 @@
 # Leetcode-Daily
+<!-- AUTO:START -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b8a3&height=120&section=header&text=LeetCode+Daily&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00b8a3&center=true&vCenter=true&repeat=true&width=500&lines=LeetCode+%E2%80%A2+One+problem+a+day%3BBuilding+algorithms%2C+one+commit+at+a+time" alt="Typing SVG"/>
+
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/parth10march/Leetcode-Daily?style=flat-square&color=00b8a3&labelColor=1a1a2e&label=Stars)](https://github.com/parth10march/Leetcode-Daily/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/parth10march/Leetcode-Daily?style=flat-square&color=00b8a3&labelColor=1a1a2e&label=Last+Commit)](https://github.com/parth10march/Leetcode-Daily/commits/main) [![Language](https://img.shields.io/badge/Language-Java-00b8a3?style=flat-square&labelColor=1a1a2e)](https://github.com/parth10march/Leetcode-Daily) [![License](https://img.shields.io/github/license/parth10march/Leetcode-Daily?style=flat-square&color=00b8a3&labelColor=1a1a2e)](./LICENSE) [![Auto-Updated](https://img.shields.io/badge/Auto--Updated-Daily-00b8a3?style=flat-square&labelColor=1a1a2e&logo=github-actions&logoColor=white)](https://github.com/parth10march/Leetcode-Daily/actions)
+
+</div>
+
+---
+
+<!-- ℹ️  The card below only renders once LEETCODE_USERNAME is set in scripts/generate_readme.py -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/REPLACE_ME?theme=dark&font=Baloo%202&ext=heatmap"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/REPLACE_ME?theme=light&font=Baloo%202&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/REPLACE_ME?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="200"/>
+</picture>
+</div>
+
+---
+
+## 📊 Dashboard
+
+<div align="center">
+
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-1-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square&labelColor=1a1a2e) |
+|:---:|:---:|:---:|:---:|
+| **1** | **0** | **1** | **0** |
+
+| Difficulty | Progress | Share |
+|:---|:---|:---:|
+| 🟢 Easy   | `░░░░░░░░░░░░░░░░░░░░` | 0% |
+| 🟡 Medium | `████████████████████` | 100% |
+| 🔴 Hard   | `░░░░░░░░░░░░░░░░░░░░` | 0% |
+
+| 🔥 Current Streak | 🏆 Longest Streak |
+|:---:|:---:|
+| **1 day** | **1 day** |
+
+</div>
+
+---
+
+## 🕐 Recently Solved
+
+| Problem | Difficulty | Language | Date |
+|:--------|:----------:|:--------:|:----:|
+| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Java | 2026-09-16 |
+
+---
+
+## 📋 All Solutions
+
+| # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
+|:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
+
+---
+
+## 🏷️ Browse by Topic
+
+<details>
+<summary><b>🏷️ Dynamic Programming (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Longest Common Subsequence (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
+
+</details>
+
+<details>
+<summary><b>🏷️ String (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
+
+</details>
+
+---
+
+## 🗂️ Repo Structure
+
+```
+Leetcode-Daily/
+├── <id>-<slug>/              # One folder per problem
+│   ├── <id>-<slug>.java       # Solution (Java / Python / C++ / …)
+│   └── README.md              # Problem statement (LeetHub)
+├── scripts/
+│   ├── generate_readme.py     # 🔄 README generator (this script)
+│   ├── sync_topics.py         # 📑 Topic-cache builder
+│   └── README.md              # Local usage guide
+├── .github/workflows/
+│   └── update-readme.yml      # ⚡ Runs after every push
+├── topics.json                # 🏷️  Durable topic-tag cache
+├── stats.json                 # 📊 LeetHub statistics (do not edit)
+└── README.md                  # 🌟 This file (auto-regenerated)
+```
+
+---
+
+## ⚙️ How This Works
+
+1. **LeetHub v2** pushes each solution automatically after you submit on LeetCode — no copy-pasting.
+2. A **GitHub Action** triggers on every push and runs `scripts/generate_readme.py`.
+3. The script reads `stats.json` and `topics.json`, scans the problem folders, and regenerates this README.
+4. **Nothing here is hand-written.** Every count, table row, and progress bar is derived from the actual files in the repo.
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-parth10march-00b8a3?style=flat-square&logo=github&labelColor=1a1a2e)](https://github.com/parth10march)
+[![LeetCode](https://img.shields.io/badge/LeetCode-REPLACE_ME-ffc01e?style=flat-square&logo=leetcode&logoColor=fff&labelColor=1a1a2e)](https://leetcode.com/REPLACE_ME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-REPLACE_ME-0a66c2?style=flat-square&logo=linkedin&labelColor=1a1a2e)](https://linkedin.com/in/REPLACE_ME)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b8a3&height=80&section=footer" width="100%" alt="footer"/>
+
+</div>
+<!-- AUTO:END -->
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
