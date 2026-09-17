@@ -28,9 +28,9 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-1-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **1** | **0** | **1** | **0** |
+| **2** | **0** | **2** | **0** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
@@ -40,7 +40,7 @@
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **1 day** | **1 day** |
+| **2 days** | **2 days** |
 
 </div>
 
@@ -50,6 +50,7 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Java | 2026-09-17 |
 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Java | 2026-09-16 |
 
 ---
@@ -59,16 +60,18 @@
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
+| 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 
 ---
 
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Dynamic Programming (1)</b></summary>
+<summary><b>🏷️ Dynamic Programming (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
 
 </details>
@@ -83,10 +86,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ String (1)</b></summary>
+<summary><b>🏷️ String (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
 
 </details>
