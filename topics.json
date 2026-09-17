@@ -13,5 +13,11 @@
     "Dynamic Programming",
     "Longest Common Subsequence",
     "String"
+  ],
+  "1621-number-of-sets-of-k-non-overlapping-line-segments": [
+    "Combinatorics",
+    "Dynamic Programming",
+    "Math",
+    "Prefix Sum"
   ]
 }
