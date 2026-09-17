@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **2** | **0** | **2** | **0** |
+| **3** | **0** | **2** | **1** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `░░░░░░░░░░░░░░░░░░░░` | 0% |
-| 🟡 Medium | `████████████████████` | 100% |
-| 🔴 Hard   | `░░░░░░░░░░░░░░░░░░░░` | 0% |
+| 🟡 Medium | `█████████████░░░░░░░` | 67% |
+| 🔴 Hard   | `███████░░░░░░░░░░░░░` | 33% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -50,6 +50,7 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Java | 2026-09-17 |
 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Java | 2026-09-17 |
 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Java | 2026-09-16 |
 
@@ -61,18 +62,29 @@
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
+| 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
 
 ---
 
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Dynamic Programming (2)</b></summary>
+<summary><b>🏷️ Dynamic Programming (3)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Greedy (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
 
 </details>
 
@@ -86,10 +98,20 @@
 </details>
 
 <details>
-<summary><b>🏷️ String (2)</b></summary>
+<summary><b>🏷️ Recursion (1)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
+
+</details>
+
+<details>
+<summary><b>🏷️ String (3)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
 

@@ -1,4 +1,10 @@
 {
+  "0044-wildcard-matching": [
+    "Dynamic Programming",
+    "Greedy",
+    "Recursion",
+    "String"
+  ],
   "0097-interleaving-string": [
     "Dynamic Programming",
     "String"
