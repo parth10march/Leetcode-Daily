@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-3-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-4-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **4** | **0** | **3** | **1** |
+| **5** | **0** | **4** | **1** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `░░░░░░░░░░░░░░░░░░░░` | 0% |
-| 🟡 Medium | `███████████████░░░░░` | 75% |
-| 🔴 Hard   | `█████░░░░░░░░░░░░░░░` | 25% |
+| 🟡 Medium | `████████████████░░░░` | 80% |
+| 🔴 Hard   | `████░░░░░░░░░░░░░░░░` | 20% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **2 days** | **2 days** |
+| **1 day** | **2 days** |
 
 </div>
 
@@ -50,6 +50,7 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Java | 2026-09-19 |
 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Java | 2026-09-17 |
 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Java | 2026-09-17 |
 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Java | 2026-09-17 |
@@ -62,6 +63,7 @@
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
+| 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Geometry, Math | Java | [↗](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java) | 9 | 2026-09-19 |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
@@ -92,6 +94,15 @@
 </details>
 
 <details>
+<summary><b>🏷️ Geometry (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | 2026-09-19 |
+
+</details>
+
+<details>
 <summary><b>🏷️ Greedy (1)</b></summary>
 
   | # | Problem | Difficulty | Date |
@@ -110,10 +121,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Math (1)</b></summary>
+<summary><b>🏷️ Math (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | 2026-09-19 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
 
 </details>

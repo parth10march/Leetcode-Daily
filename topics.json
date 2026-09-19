@@ -14,6 +14,10 @@
     "Longest Common Subsequence",
     "String"
   ],
+  "1401-circle-and-rectangle-overlapping": [
+    "Geometry",
+    "Math"
+  ],
   "1621-number-of-sets-of-k-non-overlapping-line-segments": [
     "Combinatorics",
     "Dynamic Programming",
