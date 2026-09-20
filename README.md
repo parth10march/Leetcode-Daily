@@ -209,6 +209,7 @@ Leetcode-Daily/
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,4 +246,8 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parth10march/Leetcode-Daily/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
