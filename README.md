@@ -228,6 +228,7 @@ Leetcode-Daily/
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Leetcode-Daily/
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parth10march/Leetcode-Daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -261,4 +263,8 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
