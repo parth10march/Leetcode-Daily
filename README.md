@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-1-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-5-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-1-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-6-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **7** | **1** | **5** | **1** |
+| **8** | **1** | **6** | **1** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 14% |
-| 🟡 Medium | `██████████████░░░░░░` | 71% |
-| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 14% |
+| 🟢 Easy   | `██░░░░░░░░░░░░░░░░░░` | 12% |
+| 🟡 Medium | `███████████████░░░░░` | 75% |
+| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 12% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **3 days** | **3 days** |
+| **4 days** | **4 days** |
 
 </div>
 
@@ -50,11 +50,11 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Java | 2026-09-22 |
 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | Java | 2026-09-21 |
 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | Java | 2026-09-20 |
 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Java | 2026-09-19 |
 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Java | 2026-09-17 |
-| [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Java | 2026-09-17 |
 
 ---
 
@@ -67,6 +67,7 @@
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
 | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Geometry, Math | Java | [↗](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java) | 9 | 2026-09-19 |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
+| 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 32 | 2026-09-22 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
 
@@ -75,11 +76,21 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (1)</b></summary>
+<summary><b>🏷️ Array (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Breadth-First Search (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
 
 </details>
 
@@ -93,12 +104,22 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (5)</b></summary>
+<summary><b>🏷️ Complete Knapsack (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Dynamic Programming (6)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
+  | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
@@ -120,6 +141,15 @@
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Knapsack Problem (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
 
 </details>
 

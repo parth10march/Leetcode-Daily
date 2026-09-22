@@ -9,6 +9,13 @@
     "Dynamic Programming",
     "String"
   ],
+  "0322-coin-change": [
+    "Array",
+    "Breadth-First Search",
+    "Complete Knapsack",
+    "Dynamic Programming",
+    "Knapsack Problem"
+  ],
   "1143-longest-common-subsequence": [
     "Dynamic Programming",
     "Longest Common Subsequence",
