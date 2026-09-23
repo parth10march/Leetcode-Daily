@@ -268,6 +268,7 @@ Leetcode-Daily/
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
+| [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -309,6 +310,7 @@ Leetcode-Daily/
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
@@ -323,4 +325,12 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
