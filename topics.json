@@ -9,6 +9,12 @@
     "Dynamic Programming",
     "String"
   ],
+  "0300-longest-increasing-subsequence": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Longest Increasing Subsequence"
+  ],
   "0322-coin-change": [
     "Array",
     "Breadth-First Search",
