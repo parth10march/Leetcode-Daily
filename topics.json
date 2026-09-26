@@ -37,6 +37,11 @@
     "Math",
     "Prefix Sum"
   ],
+  "1807-evaluate-the-bracket-pairs-of-a-string": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
   "3498-reverse-degree-of-a-string": [
     "Simulation",
     "String"
