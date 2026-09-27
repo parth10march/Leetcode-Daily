@@ -295,6 +295,7 @@ Leetcode-Daily/
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -372,4 +373,12 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
