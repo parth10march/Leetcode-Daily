@@ -27,6 +27,11 @@
     "Longest Common Subsequence",
     "String"
   ],
+  "1190-reverse-substrings-between-each-pair-of-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "1401-circle-and-rectangle-overlapping": [
     "Geometry",
     "Math"
