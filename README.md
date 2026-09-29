@@ -329,6 +329,7 @@ Leetcode-Daily/
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+| [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
@@ -372,6 +373,7 @@ Leetcode-Daily/
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+| [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
@@ -390,6 +392,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -397,6 +400,7 @@ Leetcode-Daily/
 ## Hash Table
 |  |
 | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |
