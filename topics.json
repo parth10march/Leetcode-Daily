@@ -32,6 +32,14 @@
     "Dynamic Programming",
     "Hash Table"
   ],
+  "1048-longest-string-chain": [
+    "Array",
+    "Dynamic Programming",
+    "Hash Table",
+    "Sorting",
+    "String",
+    "Two Pointers"
+  ],
   "1111-maximum-nesting-depth-of-two-valid-parentheses-strings": [
     "Bracket Sequences",
     "Stack",
