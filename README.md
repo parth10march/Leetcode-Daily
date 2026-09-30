@@ -327,6 +327,7 @@ Leetcode-Daily/
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0657-robot-return-to-origin](https://github.com/parth10march/Leetcode-Daily/tree/master/0657-robot-return-to-origin) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -417,9 +418,11 @@ Leetcode-Daily/
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
