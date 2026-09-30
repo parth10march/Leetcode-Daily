@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-2-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-11-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-2-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-12-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **14** | **2** | **11** | **1** |
+| **15** | **2** | **12** | **1** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 14% |
-| 🟡 Medium | `████████████████░░░░` | 79% |
+| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 13% |
+| 🟡 Medium | `████████████████░░░░` | 80% |
 | 🔴 Hard   | `█░░░░░░░░░░░░░░░░░░░` | 7% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **3 days** | **5 days** |
+| **1 day** | **5 days** |
 
 </div>
 
@@ -51,10 +51,10 @@
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Java | 2026-09-30 |
+| [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | Java | 2026-09-30 |
 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | Java | 2026-09-30 |
 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | Java | 2026-09-28 |
 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | Java | 2026-09-27 |
-| [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Java | 2026-09-26 |
 
 ---
 
@@ -70,6 +70,7 @@
 | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | Array, Dynamic Programming, Hash Table | Java | [↗](./1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.java) | 15 | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java) | 27 | 2026-09-27 |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | 15 | 2026-09-30 |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Hash Table | Java | [↗](./1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java) | 25 | 2026-09-30 |
 | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | Simulation, String | Java | [↗](./0657-robot-return-to-origin/0657-robot-return-to-origin.java) | 16 | 2026-09-28 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 32 | 2026-09-22 |
@@ -106,10 +107,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Bracket Sequences (1)</b></summary>
+<summary><b>🏷️ Bracket Sequences (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
 
 </details>
@@ -254,22 +256,24 @@
 </details>
 
 <details>
-<summary><b>🏷️ Stack (1)</b></summary>
+<summary><b>🏷️ Stack (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
 
 </details>
 
 <details>
-<summary><b>🏷️ String (7)</b></summary>
+<summary><b>🏷️ String (8)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | 2026-09-28 |
+  | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
   | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | 2026-09-26 |

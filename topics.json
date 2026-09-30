@@ -32,6 +32,11 @@
     "Dynamic Programming",
     "Hash Table"
   ],
+  "1111-maximum-nesting-depth-of-two-valid-parentheses-strings": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "1143-longest-common-subsequence": [
     "Dynamic Programming",
     "Longest Common Subsequence",
