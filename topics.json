@@ -1,4 +1,9 @@
 {
+  "0020-valid-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "0044-wildcard-matching": [
     "Dynamic Programming",
     "Greedy",
