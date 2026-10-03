@@ -27,6 +27,12 @@
     "Dynamic Programming",
     "Knapsack Problem"
   ],
+  "0509-fibonacci-number": [
+    "Dynamic Programming",
+    "Math",
+    "Memoization",
+    "Recursion"
+  ],
   "0657-robot-return-to-origin": [
     "Simulation",
     "String"
