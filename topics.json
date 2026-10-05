@@ -37,6 +37,18 @@
     "Simulation",
     "String"
   ],
+  "0678-valid-parenthesis-string": [
+    "Bracket Sequences",
+    "Dynamic Programming",
+    "Greedy",
+    "Stack",
+    "String"
+  ],
+  "0856-score-of-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "1027-longest-arithmetic-subsequence": [
     "Array",
     "Binary Search",
