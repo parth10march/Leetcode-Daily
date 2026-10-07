@@ -381,6 +381,7 @@ Leetcode-Daily/
 | [0020-valid-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0657-robot-return-to-origin](https://github.com/parth10march/Leetcode-Daily/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/0856-score-of-parentheses) |
@@ -395,6 +396,7 @@ Leetcode-Daily/
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/parth10march/Leetcode-Daily/tree/master/0509-fibonacci-number) |
