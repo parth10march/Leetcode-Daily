@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-15-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-1-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-15-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **20** | **4** | **15** | **1** |
+| **21** | **4** | **15** | **2** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 20% |
-| 🟡 Medium | `███████████████░░░░░` | 75% |
-| 🔴 Hard   | `█░░░░░░░░░░░░░░░░░░░` | 5% |
+| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 19% |
+| 🟡 Medium | `██████████████░░░░░░` | 71% |
+| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 10% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -50,11 +50,11 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Java | 2026-10-07 |
 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Java | 2026-10-05 |
 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Java | 2026-10-05 |
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Java | 2026-10-03 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Java | 2026-10-01 |
-| [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Java | 2026-09-30 |
 
 ---
 
@@ -79,6 +79,7 @@
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Dynamic Programming, Math, Memoization, Recursion | Java | [↗](./0509-fibonacci-number/0509-fibonacci-number.java) | 15 | 2026-10-03 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 32 | 2026-09-22 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | Java | [↗](./0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java) | 22 | 2026-09-23 |
+| 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Dynamic Programming, String | Java | [↗](./0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java) | 36 | 2026-10-07 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Bracket Sequences, Stack, String | Java | [↗](./0020-valid-parentheses/0020-valid-parentheses.java) | 22 | 2026-10-01 |
@@ -153,12 +154,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (12)</b></summary>
+<summary><b>🏷️ Dynamic Programming (13)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
+  | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | 2026-10-07 |
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | 2026-10-03 |
@@ -303,13 +305,14 @@
 </details>
 
 <details>
-<summary><b>🏷️ String (12)</b></summary>
+<summary><b>🏷️ String (13)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 2026-10-01 |
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
+  | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | 2026-10-07 |
   | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | 2026-09-28 |
   | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 2026-10-05 |
   | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | 2026-10-05 |
