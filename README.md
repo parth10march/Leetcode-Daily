@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-15-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-16-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **21** | **4** | **15** | **2** |
+| **22** | **4** | **16** | **2** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 19% |
-| 🟡 Medium | `██████████████░░░░░░` | 71% |
-| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 10% |
+| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 18% |
+| 🟡 Medium | `███████████████░░░░░` | 73% |
+| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 9% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -51,10 +51,10 @@
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Java | 2026-10-07 |
+| [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Java | 2026-10-07 |
 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Java | 2026-10-05 |
 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Java | 2026-10-05 |
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Java | 2026-10-03 |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Java | 2026-10-01 |
 
 ---
 
@@ -65,6 +65,7 @@
 | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | Array, Dynamic Programming, Math | Java | [↗](./3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java) | 21 | 2026-09-21 |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | Simulation, String | Java | [↗](./3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java) | 16 | 2026-09-20 |
 | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table, String | Java | [↗](./1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java) | 19 | 2026-09-26 |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Array, Dynamic Programming, Longest Increasing Subsequence, Sorting | Java | [↗](./1626-best-team-with-no-conflicts/1626-best-team-with-no-conflicts.java) | 32 | 2026-10-07 |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
 | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Geometry, Math | Java | [↗](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java) | 9 | 2026-09-19 |
 | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | Array, Dynamic Programming, Hash Table | Java | [↗](./1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.java) | 15 | 2026-09-30 |
@@ -89,7 +90,7 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (7)</b></summary>
+<summary><b>🏷️ Array (8)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -98,6 +99,7 @@
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
+  | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
   | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | 2026-09-26 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
 
@@ -154,7 +156,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (13)</b></summary>
+<summary><b>🏷️ Dynamic Programming (14)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -170,6 +172,7 @@
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
+  | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
 
 </details>
@@ -224,11 +227,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Longest Increasing Subsequence (1)</b></summary>
+<summary><b>🏷️ Longest Increasing Subsequence (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
+  | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
 
 </details>
 
@@ -283,11 +287,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Sorting (1)</b></summary>
+<summary><b>🏷️ Sorting (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
+  | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
 
 </details>
 

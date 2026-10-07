@@ -97,6 +97,12 @@
     "Math",
     "Prefix Sum"
   ],
+  "1626-best-team-with-no-conflicts": [
+    "Array",
+    "Dynamic Programming",
+    "Longest Increasing Subsequence",
+    "Sorting"
+  ],
   "1807-evaluate-the-bracket-pairs-of-a-string": [
     "Array",
     "Hash Table",
