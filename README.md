@@ -409,6 +409,7 @@ Leetcode-Daily/
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Longest Common Subsequence
 |  |
@@ -456,6 +457,7 @@ Leetcode-Daily/
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
@@ -479,6 +481,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 ## Hash Table
 |  |
 | ------- |
@@ -510,6 +513,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
+| [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 ## Memoization
 |  |
 | ------- |
