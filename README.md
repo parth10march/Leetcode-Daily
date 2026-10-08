@@ -410,6 +410,7 @@ Leetcode-Daily/
 | [0509-fibonacci-number](https://github.com/parth10march/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -460,6 +461,7 @@ Leetcode-Daily/
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
