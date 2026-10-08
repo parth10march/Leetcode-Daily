@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-16-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-18-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **22** | **4** | **16** | **2** |
+| **24** | **4** | **18** | **2** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 18% |
-| 🟡 Medium | `███████████████░░░░░` | 73% |
-| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 9% |
+| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 17% |
+| 🟡 Medium | `███████████████░░░░░` | 75% |
+| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 8% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **1 day** | **5 days** |
+| **2 days** | **5 days** |
 
 </div>
 
@@ -50,11 +50,11 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Java | 2026-10-08 |
+| [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Java | 2026-10-08 |
 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Java | 2026-10-07 |
 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Java | 2026-10-07 |
 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Java | 2026-10-05 |
-| [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Java | 2026-10-05 |
-| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Java | 2026-10-03 |
 
 ---
 
@@ -73,11 +73,13 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
 | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | 15 | 2026-09-30 |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | Array, Dynamic Programming, Hash Table, Sorting, String, Two Pointers | Java | [↗](./1048-longest-string-chain/1048-longest-string-chain.java) | 34 | 2026-09-30 |
+| 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Array, Dynamic Programming | Java | [↗](./1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java) | 23 | 2026-10-08 |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Hash Table | Java | [↗](./1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java) | 25 | 2026-09-30 |
 | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./0856-score-of-parentheses/0856-score-of-parentheses.java) | 19 | 2026-10-05 |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Bracket Sequences, Dynamic Programming, Greedy, Stack, String | Java | [↗](./0678-valid-parenthesis-string/0678-valid-parenthesis-string.java) | 28 | 2026-10-05 |
 | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | Simulation, String | Java | [↗](./0657-robot-return-to-origin/0657-robot-return-to-origin.java) | 16 | 2026-09-28 |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Dynamic Programming, Math, Memoization, Recursion | Java | [↗](./0509-fibonacci-number/0509-fibonacci-number.java) | 15 | 2026-10-03 |
+| 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Array, Dynamic Programming, Game Theory, Math, Minimax, Recursion, Zero-Sum Game | Java | [↗](./0486-predict-the-winner/0486-predict-the-winner.java) | 17 | 2026-10-08 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 32 | 2026-09-22 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | Java | [↗](./0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java) | 22 | 2026-09-23 |
 | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Dynamic Programming, String | Java | [↗](./0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java) | 36 | 2026-10-07 |
@@ -90,13 +92,15 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (8)</b></summary>
+<summary><b>🏷️ Array (10)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
+  | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
   | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
@@ -156,7 +160,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (14)</b></summary>
+<summary><b>🏷️ Dynamic Programming (16)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -165,15 +169,26 @@
   | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | 2026-10-07 |
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | 2026-10-03 |
   | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 2026-10-05 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
+  | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
   | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Game Theory (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
 
 </details>
 
@@ -237,10 +252,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Math (4)</b></summary>
+<summary><b>🏷️ Math (5)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | 2026-10-03 |
   | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | 2026-09-19 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
@@ -258,6 +274,15 @@
 </details>
 
 <details>
+<summary><b>🏷️ Minimax (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
+
+</details>
+
+<details>
 <summary><b>🏷️ Prefix Sum (1)</b></summary>
 
   | # | Problem | Difficulty | Date |
@@ -267,11 +292,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Recursion (2)</b></summary>
+<summary><b>🏷️ Recursion (3)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | 2026-10-03 |
 
 </details>
@@ -336,6 +362,15 @@
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Zero-Sum Game (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
 
 </details>
 

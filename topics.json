@@ -31,6 +31,15 @@
     "Dynamic Programming",
     "Knapsack Problem"
   ],
+  "0486-predict-the-winner": [
+    "Array",
+    "Dynamic Programming",
+    "Game Theory",
+    "Math",
+    "Minimax",
+    "Recursion",
+    "Zero-Sum Game"
+  ],
   "0509-fibonacci-number": [
     "Dynamic Programming",
     "Math",
@@ -58,6 +67,10 @@
     "Binary Search",
     "Dynamic Programming",
     "Hash Table"
+  ],
+  "1043-partition-array-for-maximum-sum": [
+    "Array",
+    "Dynamic Programming"
   ],
   "1048-longest-string-chain": [
     "Array",
