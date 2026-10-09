@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-18-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-19-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **24** | **4** | **18** | **2** |
+| **25** | **4** | **19** | **2** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 17% |
-| 🟡 Medium | `███████████████░░░░░` | 75% |
+| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 16% |
+| 🟡 Medium | `███████████████░░░░░` | 76% |
 | 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 8% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **2 days** | **5 days** |
+| **3 days** | **5 days** |
 
 </div>
 
@@ -50,11 +50,11 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Java | 2026-10-09 |
 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Java | 2026-10-08 |
 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Java | 2026-10-08 |
 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Java | 2026-10-07 |
 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Java | 2026-10-07 |
-| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Java | 2026-10-05 |
 
 ---
 
@@ -67,6 +67,7 @@
 | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table, String | Java | [↗](./1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java) | 19 | 2026-09-26 |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Array, Dynamic Programming, Longest Increasing Subsequence, Sorting | Java | [↗](./1626-best-team-with-no-conflicts/1626-best-team-with-no-conflicts.java) | 32 | 2026-10-07 |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
+| 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Bracket Sequences, Greedy, Stack, String | Java | [↗](./1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java) | 18 | 2026-10-09 |
 | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Geometry, Math | Java | [↗](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java) | 9 | 2026-09-19 |
 | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | Array, Dynamic Programming, Hash Table | Java | [↗](./1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.java) | 15 | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java) | 27 | 2026-09-27 |
@@ -120,7 +121,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ Bracket Sequences (5)</b></summary>
+<summary><b>🏷️ Bracket Sequences (6)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -129,6 +130,7 @@
   | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | 2026-10-05 |
   | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
+  | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | 2026-10-09 |
 
 </details>
 
@@ -202,12 +204,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Greedy (2)</b></summary>
+<summary><b>🏷️ Greedy (3)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 2026-10-05 |
+  | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | 2026-10-09 |
 
 </details>
 
@@ -323,7 +326,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ Stack (5)</b></summary>
+<summary><b>🏷️ Stack (6)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -332,11 +335,12 @@
   | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | 2026-10-05 |
   | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
+  | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | 2026-10-09 |
 
 </details>
 
 <details>
-<summary><b>🏷️ String (13)</b></summary>
+<summary><b>🏷️ String (14)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -351,6 +355,7 @@
   | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
+  | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | 2026-10-09 |
   | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | 2026-09-26 |
   | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | 2026-09-20 |
 

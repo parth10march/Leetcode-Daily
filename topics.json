@@ -104,6 +104,12 @@
     "Geometry",
     "Math"
   ],
+  "1541-minimum-insertions-to-balance-a-parentheses-string": [
+    "Bracket Sequences",
+    "Greedy",
+    "Stack",
+    "String"
+  ],
   "1621-number-of-sets-of-k-non-overlapping-line-segments": [
     "Combinatorics",
     "Dynamic Programming",
