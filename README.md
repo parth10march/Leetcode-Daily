@@ -432,6 +432,7 @@ Leetcode-Daily/
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -462,6 +463,7 @@ Leetcode-Daily/
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -543,6 +545,7 @@ Leetcode-Daily/
 | [0856-score-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -551,6 +554,7 @@ Leetcode-Daily/
 | [0856-score-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Two Pointers
 |  |
 | ------- |
