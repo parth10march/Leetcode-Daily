@@ -40,7 +40,7 @@
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **3 days** | **5 days** |
+| **0 days** | **5 days** |
 
 </div>
 
