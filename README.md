@@ -448,6 +448,7 @@ Leetcode-Daily/
 | [0132-palindrome-partitioning-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/parth10march/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
@@ -467,6 +468,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
@@ -490,6 +492,7 @@ Leetcode-Daily/
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
@@ -505,6 +508,7 @@ Leetcode-Daily/
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
@@ -529,6 +533,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 ## Longest Increasing Subsequence
 |  |
