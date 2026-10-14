@@ -448,6 +448,7 @@ Leetcode-Daily/
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parth10march/Leetcode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parth10march/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1278-palindrome-partitioning-iii](https://github.com/parth10march/Leetcode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -468,6 +469,7 @@ Leetcode-Daily/
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1278-palindrome-partitioning-iii](https://github.com/parth10march/Leetcode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
