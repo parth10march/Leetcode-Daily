@@ -107,6 +107,10 @@
     "Dynamic Programming",
     "Hash Table"
   ],
+  "1278-palindrome-partitioning-iii": [
+    "Dynamic Programming",
+    "String"
+  ],
   "1401-circle-and-rectangle-overlapping": [
     "Geometry",
     "Math"

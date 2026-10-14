@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-19-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-19-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **26** | **4** | **19** | **3** |
+| **27** | **4** | **19** | **4** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 15% |
-| 🟡 Medium | `███████████████░░░░░` | 73% |
-| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 12% |
+| 🟡 Medium | `██████████████░░░░░░` | 70% |
+| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 15% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -51,17 +51,17 @@
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Java | 2026-10-14 |
+| [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | Java | 2026-10-14 |
 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Java | 2026-10-09 |
 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Java | 2026-10-08 |
 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Java | 2026-10-08 |
-| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Java | 2026-10-07 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (26 problems)</b></summary>
+<summary><b>📋 All Solutions (27 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -72,6 +72,7 @@
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
 | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Bracket Sequences, Greedy, Stack, String | Java | [↗](./1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java) | 18 | 2026-10-09 |
 | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Geometry, Math | Java | [↗](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java) | 9 | 2026-09-19 |
+| 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | Dynamic Programming, String | Java | [↗](./1278-palindrome-partitioning-iii/1278-palindrome-partitioning-iii.java) | 38 | 2026-10-14 |
 | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | Array, Dynamic Programming, Hash Table | Java | [↗](./1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.java) | 15 | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java) | 27 | 2026-09-27 |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | Dynamic Programming, Longest Common Subsequence, String | Java | [↗](./1143-longest-common-subsequence/1143-longest-common-subsequence.java) | 19 | 2026-09-16 |
@@ -170,7 +171,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (17)</b></summary>
+<summary><b>🏷️ Dynamic Programming (18)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -188,6 +189,7 @@
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
+  | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | 2026-10-14 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
   | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
   | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | 2026-09-21 |
@@ -351,7 +353,7 @@
 </details>
 
 <details>
-<summary><b>🏷️ String (14)</b></summary>
+<summary><b>🏷️ String (15)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -366,6 +368,7 @@
   | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | 2026-09-30 |
   | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | 2026-09-16 |
   | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | 2026-09-27 |
+  | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | 2026-10-14 |
   | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | 2026-10-09 |
   | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | 2026-09-26 |
   | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | 2026-09-20 |
