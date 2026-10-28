@@ -476,6 +476,7 @@ Leetcode-Daily/
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parth10march/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -533,6 +534,7 @@ Leetcode-Daily/
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -606,4 +608,12 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
