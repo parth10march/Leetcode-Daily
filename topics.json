@@ -146,5 +146,11 @@
     "Array",
     "Dynamic Programming",
     "Math"
+  ],
+  "3882-minimum-xor-path-in-a-grid": [
+    "Array",
+    "Bit Manipulation",
+    "Dynamic Programming",
+    "Matrix"
   ]
 }
