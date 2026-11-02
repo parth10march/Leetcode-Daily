@@ -518,6 +518,7 @@ Leetcode-Daily/
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/parth10march/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parth10march/Leetcode-Daily/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -547,6 +548,7 @@ Leetcode-Daily/
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
@@ -611,6 +613,7 @@ Leetcode-Daily/
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 ## Memoization
