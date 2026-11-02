@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-20-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-21-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **28** | **4** | **20** | **4** |
+| **29** | **4** | **21** | **4** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 14% |
-| 🟡 Medium | `██████████████░░░░░░` | 71% |
+| 🟡 Medium | `██████████████░░░░░░` | 72% |
 | 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 14% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **0 days** | **5 days** |
+| **1 day** | **5 days** |
 
 </div>
 
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Java | 2026-11-02 |
 | [Minimum Xor Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | Java | 2026-10-28 |
 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Java | 2026-10-14 |
 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | Java | 2026-10-14 |
 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Java | 2026-10-09 |
-| [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Java | 2026-10-08 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (28 problems)</b></summary>
+<summary><b>📋 All Solutions (29 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -86,6 +86,7 @@
 | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | Simulation, String | Java | [↗](./0657-robot-return-to-origin/0657-robot-return-to-origin.java) | 16 | 2026-09-28 |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Dynamic Programming, Math, Memoization, Recursion | Java | [↗](./0509-fibonacci-number/0509-fibonacci-number.java) | 15 | 2026-10-03 |
 | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | Array, Dynamic Programming, Game Theory, Math, Minimax, Recursion, Zero-Sum Game | Java | [↗](./0486-predict-the-winner/0486-predict-the-winner.java) | 17 | 2026-10-08 |
+| 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Array, Math, Sorting | Java | [↗](./0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.java) | 11 | 2026-11-02 |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | Java | [↗](./0410-split-array-largest-sum/0410-split-array-largest-sum.java) | 36 | 2026-10-14 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 56 | 2026-09-22 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | Java | [↗](./0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java) | 22 | 2026-09-23 |
@@ -101,13 +102,14 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (12)</b></summary>
+<summary><b>🏷️ Array (13)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2026-10-14 |
+  | 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | 2026-11-02 |
   | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
@@ -279,10 +281,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Math (5)</b></summary>
+<summary><b>🏷️ Math (6)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | 2026-11-02 |
   | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | 2026-10-03 |
   | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | 2026-09-19 |
@@ -350,10 +353,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Sorting (2)</b></summary>
+<summary><b>🏷️ Sorting (3)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | 2026-11-02 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | 2026-10-07 |
 
