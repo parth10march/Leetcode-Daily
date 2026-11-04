@@ -74,6 +74,12 @@
     "Stack",
     "String"
   ],
+  "0713-subarray-product-less-than-k": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "0856-score-of-parentheses": [
     "Bracket Sequences",
     "Stack",
