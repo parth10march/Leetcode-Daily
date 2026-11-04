@@ -28,14 +28,14 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-22-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-23-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **30** | **4** | **22** | **4** |
+| **31** | **4** | **23** | **4** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 13% |
-| 🟡 Medium | `███████████████░░░░░` | 73% |
+| 🟡 Medium | `███████████████░░░░░` | 74% |
 | 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 13% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Java | 2026-11-04 |
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Java | 2026-11-04 |
 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Java | 2026-11-02 |
 | [Minimum Xor Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | Java | 2026-10-28 |
 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Java | 2026-10-14 |
-| [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | 🔴 Hard | Java | 2026-10-14 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (30 problems)</b></summary>
+<summary><b>📋 All Solutions (31 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -95,6 +95,7 @@
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Bracket Sequences, Stack, String | Java | [↗](./0020-valid-parentheses/0020-valid-parentheses.java) | 22 | 2026-10-01 |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Hash Table, Sliding Window, String | Java | [↗](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java) | 24 | 2026-11-04 |
 
 </details>
 
@@ -244,10 +245,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Hash Table (4)</b></summary>
+<summary><b>🏷️ Hash Table (5)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
@@ -357,10 +359,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Sliding Window (1)</b></summary>
+<summary><b>🏷️ Sliding Window (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
 
 </details>
@@ -391,10 +394,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ String (15)</b></summary>
+<summary><b>🏷️ String (16)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 2026-10-01 |
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
