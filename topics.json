@@ -74,6 +74,12 @@
     "Stack",
     "String"
   ],
+  "1004-max-consecutive-ones-iii": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "1027-longest-arithmetic-subsequence": [
     "Array",
     "Binary Search",
