@@ -533,6 +533,7 @@ Leetcode-Daily/
 | [0044-wildcard-matching](https://github.com/parth10march/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parth10march/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -599,6 +600,7 @@ Leetcode-Daily/
 ## Array
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -706,6 +708,7 @@ Leetcode-Daily/
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
