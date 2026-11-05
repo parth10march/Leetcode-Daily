@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-24-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **32** | **4** | **24** | **4** |
+| **33** | **4** | **25** | **4** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `██░░░░░░░░░░░░░░░░░░` | 12% |
-| 🟡 Medium | `███████████████░░░░░` | 75% |
+| 🟡 Medium | `███████████████░░░░░` | 76% |
 | 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 12% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **1 day** | **5 days** |
+| **2 days** | **5 days** |
 
 </div>
 
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Java | 2026-11-04 |
 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | Java | 2026-11-04 |
 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | Java | 2026-11-04 |
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Java | 2026-11-04 |
-| [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Java | 2026-11-02 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (33 problems)</b></summary>
+<summary><b>📋 All Solutions (34 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -82,6 +82,7 @@
 | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Array, Dynamic Programming | Java | [↗](./1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java) | 23 | 2026-10-08 |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Hash Table | Java | [↗](./1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java) | 25 | 2026-09-30 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Array, Binary Search, Prefix Sum, Sliding Window | Java | [↗](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java) | 24 | 2026-11-04 |
+| 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array, Hash Table, Prefix Sum, Sliding Window | Java | [↗](./0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.java) | 18 | 2026-11-05 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | — | Java | [↗](./0904-fruit-into-baskets/0904-fruit-into-baskets.java) | 19 | 2026-11-04 |
 | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./0856-score-of-parentheses/0856-score-of-parentheses.java) | 19 | 2026-10-05 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | Array, Binary Search, Prefix Sum, Sliding Window | Java | [↗](./0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java) | 16 | 2026-11-04 |
@@ -106,7 +107,7 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (15)</b></summary>
+<summary><b>🏷️ Array (16)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -116,6 +117,7 @@
   | 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | 2026-11-02 |
   | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
+  | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
@@ -249,11 +251,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Hash Table (5)</b></summary>
+<summary><b>🏷️ Hash Table (6)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
+  | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
@@ -331,12 +334,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Prefix Sum (4)</b></summary>
+<summary><b>🏷️ Prefix Sum (5)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2026-10-14 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
+  | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
   | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | 2026-09-17 |
 
@@ -364,12 +368,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Sliding Window (3)</b></summary>
+<summary><b>🏷️ Sliding Window (4)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
+  | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
 
 </details>

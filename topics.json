@@ -85,6 +85,12 @@
     "Stack",
     "String"
   ],
+  "0930-binary-subarrays-with-sum": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "1004-max-consecutive-ones-iii": [
     "Array",
     "Binary Search",
