@@ -145,6 +145,12 @@
     "Dynamic Programming",
     "String"
   ],
+  "1385-find-the-distance-value-between-two-arrays": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Two Pointers"
+  ],
   "1401-circle-and-rectangle-overlapping": [
     "Geometry",
     "Math"
