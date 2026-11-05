@@ -588,6 +588,7 @@ Leetcode-Daily/
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0713-subarray-product-less-than-k](https://github.com/parth10march/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth10march/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
@@ -627,6 +628,7 @@ Leetcode-Daily/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth10march/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -689,5 +691,10 @@ Leetcode-Daily/
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth10march/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/parth10march/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth10march/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
