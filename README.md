@@ -607,6 +607,7 @@ Leetcode-Daily/
 | [1043-partition-array-for-maximum-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/parth10march/Leetcode-Daily/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parth10march/Leetcode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parth10march/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/parth10march/Leetcode-Daily/tree/master/3524-find-x-value-of-array-i) |
@@ -631,6 +632,7 @@ Leetcode-Daily/
 | [0713-subarray-product-less-than-k](https://github.com/parth10march/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth10march/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/1027-longest-arithmetic-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parth10march/Leetcode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -668,11 +670,13 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parth10march/Leetcode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1048-longest-string-chain](https://github.com/parth10march/Leetcode-Daily/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parth10march/Leetcode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1626-best-team-with-no-conflicts](https://github.com/parth10march/Leetcode-Daily/tree/master/1626-best-team-with-no-conflicts) |
 ## Memoization
 |  |
