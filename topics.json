@@ -23,6 +23,11 @@
     "Dynamic Programming",
     "String"
   ],
+  "0174-dungeon-game": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
   "0300-longest-increasing-subsequence": [
     "Array",
     "Binary Search",

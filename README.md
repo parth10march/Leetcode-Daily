@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-5-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-5-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **35** | **5** | **25** | **5** |
+| **36** | **5** | **25** | **6** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 14% |
-| 🟡 Medium | `██████████████░░░░░░` | 71% |
-| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 14% |
+| 🟡 Medium | `██████████████░░░░░░` | 69% |
+| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 17% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | Java | 2026-11-05 |
 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Java | 2026-11-05 |
 | [Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | 🟢 Easy | Java | 2026-11-05 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Java | 2026-11-04 |
-| [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | Java | 2026-11-04 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (36 problems)</b></summary>
+<summary><b>📋 All Solutions (37 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -96,6 +96,7 @@
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | Java | [↗](./0410-split-array-largest-sum/0410-split-array-largest-sum.java) | 36 | 2026-10-14 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Breadth-First Search, Complete Knapsack, Dynamic Programming, Knapsack Problem | Java | [↗](./0322-coin-change/0322-coin-change.java) | 56 | 2026-09-22 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | Java | [↗](./0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java) | 22 | 2026-09-23 |
+| 0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | Array, Dynamic Programming, Matrix | Java | [↗](./0174-dungeon-game/0174-dungeon-game.java) | 19 | 2026-11-05 |
 | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | Dynamic Programming, String | Java | [↗](./0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java) | 36 | 2026-10-07 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | Dynamic Programming, String | Java | [↗](./0097-interleaving-string/0097-interleaving-string.java) | 27 | 2026-09-17 |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | Dynamic Programming, Greedy, Recursion, String | Java | [↗](./0044-wildcard-matching/0044-wildcard-matching.java) | 35 | 2026-09-17 |
@@ -109,10 +110,11 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (18)</b></summary>
+<summary><b>🏷️ Array (19)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | 2026-11-05 |
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2026-10-14 |
@@ -208,13 +210,14 @@
 </details>
 
 <details>
-<summary><b>🏷️ Dynamic Programming (19)</b></summary>
+<summary><b>🏷️ Dynamic Programming (20)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | 2026-09-17 |
   | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | 2026-09-17 |
   | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | 2026-10-07 |
+  | 0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | 2026-11-05 |
   | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 2026-09-23 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
   | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2026-10-14 |
@@ -322,10 +325,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Matrix (1)</b></summary>
+<summary><b>🏷️ Matrix (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | 2026-11-05 |
   | 3882 | [Minimum Xor Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | 2026-10-28 |
 
 </details>
