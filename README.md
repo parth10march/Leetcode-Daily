@@ -28,15 +28,15 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **33** | **4** | **25** | **4** |
+| **34** | **4** | **25** | **5** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `██░░░░░░░░░░░░░░░░░░` | 12% |
-| 🟡 Medium | `███████████████░░░░░` | 76% |
-| 🔴 Hard   | `██░░░░░░░░░░░░░░░░░░` | 12% |
+| 🟡 Medium | `███████████████░░░░░` | 74% |
+| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 15% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
@@ -51,17 +51,17 @@
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
+| [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Java | 2026-11-05 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Java | 2026-11-04 |
 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | Java | 2026-11-04 |
 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | Java | 2026-11-04 |
-| [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Java | 2026-11-04 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (34 problems)</b></summary>
+<summary><b>📋 All Solutions (35 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -82,6 +82,7 @@
 | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Array, Dynamic Programming | Java | [↗](./1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java) | 23 | 2026-10-08 |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Hash Table | Java | [↗](./1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java) | 25 | 2026-09-30 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Array, Binary Search, Prefix Sum, Sliding Window | Java | [↗](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java) | 24 | 2026-11-04 |
+| 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Array, Counting, Hash Table, Sliding Window | Java | [↗](./0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.java) | 20 | 2026-11-05 |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array, Hash Table, Prefix Sum, Sliding Window | Java | [↗](./0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.java) | 18 | 2026-11-05 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | — | Java | [↗](./0904-fruit-into-baskets/0904-fruit-into-baskets.java) | 19 | 2026-11-04 |
 | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./0856-score-of-parentheses/0856-score-of-parentheses.java) | 19 | 2026-10-05 |
@@ -107,7 +108,7 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (16)</b></summary>
+<summary><b>🏷️ Array (17)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -118,6 +119,7 @@
   | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
+  | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
@@ -194,6 +196,15 @@
 </details>
 
 <details>
+<summary><b>🏷️ Counting (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
+
+</details>
+
+<details>
 <summary><b>🏷️ Dynamic Programming (19)</b></summary>
 
   | # | Problem | Difficulty | Date |
@@ -251,12 +262,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Hash Table (6)</b></summary>
+<summary><b>🏷️ Hash Table (7)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
+  | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
@@ -368,13 +380,14 @@
 </details>
 
 <details>
-<summary><b>🏷️ Sliding Window (4)</b></summary>
+<summary><b>🏷️ Sliding Window (5)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
+  | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
 
 </details>

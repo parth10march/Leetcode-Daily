@@ -91,6 +91,12 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "0992-subarrays-with-k-different-integers": [
+    "Array",
+    "Counting",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "1004-max-consecutive-ones-iii": [
     "Array",
     "Binary Search",
