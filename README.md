@@ -726,4 +726,8 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/parth10march/Leetcode-Daily/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
