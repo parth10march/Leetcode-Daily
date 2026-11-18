@@ -28,19 +28,19 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-5-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **36** | **5** | **25** | **6** |
+| **37** | **6** | **25** | **6** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 14% |
-| 🟡 Medium | `██████████████░░░░░░` | 69% |
-| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 17% |
+| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 16% |
+| 🟡 Medium | `██████████████░░░░░░` | 68% |
+| 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 16% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |:---:|:---:|
-| **0 days** | **5 days** |
+| **1 day** | **5 days** |
 
 </div>
 
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | Java | 2026-11-18 |
 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | Java | 2026-11-05 |
 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Java | 2026-11-05 |
 | [Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | 🟢 Easy | Java | 2026-11-05 |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Java | 2026-11-04 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (37 problems)</b></summary>
+<summary><b>📋 All Solutions (38 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -69,6 +69,7 @@
 | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡 Medium | Array, Dynamic Programming, Math | Java | [↗](./3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java) | 21 | 2026-09-21 |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | Simulation, String | Java | [↗](./3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java) | 16 | 2026-09-20 |
 | 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table, String | Java | [↗](./1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java) | 19 | 2026-09-26 |
+| 1791 | [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | Graph Theory | Java | [↗](./1791-find-center-of-star-graph/1791-find-center-of-star-graph.java) | 8 | 2026-11-18 |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | Array, Dynamic Programming, Longest Increasing Subsequence, Sorting | Java | [↗](./1626-best-team-with-no-conflicts/1626-best-team-with-no-conflicts.java) | 32 | 2026-10-07 |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | Combinatorics, Dynamic Programming, Math, Prefix Sum | Java | [↗](./1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | 15 | 2026-09-17 |
 | 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | Bracket Sequences, Greedy, Stack, String | Java | [↗](./1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java) | 18 | 2026-10-09 |
@@ -252,6 +253,15 @@
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | 2026-09-19 |
+
+</details>
+
+<details>
+<summary><b>🏷️ Graph Theory (1)</b></summary>
+
+  | # | Problem | Difficulty | Date |
+  |:---:|:--------|:----------:|:----:|
+  | 1791 | [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | 2026-11-18 |
 
 </details>
 
