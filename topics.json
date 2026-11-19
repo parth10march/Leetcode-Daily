@@ -28,6 +28,13 @@
     "Dynamic Programming",
     "Matrix"
   ],
+  "0200-number-of-islands": [
+    "Array",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Matrix",
+    "Union-Find"
+  ],
   "0300-longest-increasing-subsequence": [
     "Array",
     "Binary Search",
