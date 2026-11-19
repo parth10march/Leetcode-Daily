@@ -28,14 +28,14 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-25-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **37** | **6** | **25** | **6** |
+| **38** | **7** | **25** | **6** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
-| 🟢 Easy   | `███░░░░░░░░░░░░░░░░░` | 16% |
-| 🟡 Medium | `██████████████░░░░░░` | 68% |
+| 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 18% |
+| 🟡 Medium | `█████████████░░░░░░░` | 66% |
 | 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 16% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | Java | 2026-11-18 |
 | [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | Java | 2026-11-18 |
 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | Java | 2026-11-05 |
 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Java | 2026-11-05 |
-| [Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | 🟢 Easy | Java | 2026-11-05 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (38 problems)</b></summary>
+<summary><b>📋 All Solutions (39 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -84,6 +84,7 @@
 | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | Array, Dynamic Programming | Java | [↗](./1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java) | 23 | 2026-10-08 |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | Array, Binary Search, Dynamic Programming, Hash Table | Java | [↗](./1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java) | 25 | 2026-09-30 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Array, Binary Search, Prefix Sum, Sliding Window | Java | [↗](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java) | 24 | 2026-11-04 |
+| 0997 | [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | Array, Graph Theory, Hash Table | Java | [↗](./0997-find-the-town-judge/0997-find-the-town-judge.java) | 18 | 2026-11-18 |
 | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | Array, Counting, Hash Table, Sliding Window | Java | [↗](./0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.java) | 20 | 2026-11-05 |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array, Hash Table, Prefix Sum, Sliding Window | Java | [↗](./0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.java) | 18 | 2026-11-05 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | — | Java | [↗](./0904-fruit-into-baskets/0904-fruit-into-baskets.java) | 19 | 2026-11-04 |
@@ -111,7 +112,7 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (19)</b></summary>
+<summary><b>🏷️ Array (20)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -124,6 +125,7 @@
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
+  | 0997 | [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | 2026-11-18 |
   | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 2026-11-04 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1043 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | 2026-10-08 |
@@ -257,10 +259,11 @@
 </details>
 
 <details>
-<summary><b>🏷️ Graph Theory (1)</b></summary>
+<summary><b>🏷️ Graph Theory (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
+  | 0997 | [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | 2026-11-18 |
   | 1791 | [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | 2026-11-18 |
 
 </details>
@@ -278,13 +281,14 @@
 </details>
 
 <details>
-<summary><b>🏷️ Hash Table (7)</b></summary>
+<summary><b>🏷️ Hash Table (8)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
+  | 0997 | [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | 2026-11-18 |
   | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | 🟡 Medium | 2026-09-30 |
   | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 2026-09-30 |
   | 1218 | [Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 🟡 Medium | 2026-09-30 |
