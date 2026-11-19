@@ -619,6 +619,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/parth10march/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -641,6 +642,7 @@ Leetcode-Daily/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -729,6 +731,7 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -747,4 +750,12 @@ Leetcode-Daily/
 | ------- |
 | [0997-find-the-town-judge](https://github.com/parth10march/Leetcode-Daily/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/parth10march/Leetcode-Daily/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
