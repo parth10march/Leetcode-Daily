@@ -28,14 +28,14 @@
 
 <div align="center">
 
-| Total Solved | ![Easy](https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-26-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
+| Total Solved | ![Easy](https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square&labelColor=1a1a2e) | ![Medium](https://img.shields.io/badge/Medium-27-ffc01e?style=flat-square&labelColor=1a1a2e) | ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square&labelColor=1a1a2e) |
 |:---:|:---:|:---:|:---:|
-| **39** | **7** | **26** | **6** |
+| **40** | **7** | **27** | **6** |
 
 | Difficulty | Progress | Share |
 |:---|:---|:---:|
 | 🟢 Easy   | `████░░░░░░░░░░░░░░░░` | 18% |
-| 🟡 Medium | `█████████████░░░░░░░` | 67% |
+| 🟡 Medium | `██████████████░░░░░░` | 68% |
 | 🔴 Hard   | `███░░░░░░░░░░░░░░░░░` | 15% |
 
 | 🔥 Current Streak | 🏆 Longest Streak |
@@ -50,18 +50,18 @@
 
 | Problem | Difficulty | Language | Date |
 |:--------|:----------:|:--------:|:----:|
+| [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | Java | 2026-11-21 |
 | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | Java | 2026-11-19 |
 | [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | Java | 2026-11-18 |
 | [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 Easy | Java | 2026-11-18 |
 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | Java | 2026-11-05 |
-| [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Java | 2026-11-05 |
 
 ---
 
 ## 📋 All Solutions
 
 <details>
-<summary><b>📋 All Solutions (40 problems)</b></summary>
+<summary><b>📋 All Solutions (41 problems)</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Lines | Date |
 |:---:|:--------|:----------:|:-------|:--------:|:--------:|:-----:|:----:|
@@ -90,6 +90,7 @@
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ⚪ Unknown | — | Java | [↗](./0904-fruit-into-baskets/0904-fruit-into-baskets.java) | 19 | 2026-11-04 |
 | 0856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | Bracket Sequences, Stack, String | Java | [↗](./0856-score-of-parentheses/0856-score-of-parentheses.java) | 19 | 2026-10-05 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | Array, Binary Search, Prefix Sum, Sliding Window | Java | [↗](./0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java) | 16 | 2026-11-04 |
+| 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | Array, Breadth-First Search, Depth-First Search, Matrix, Union-Find | Java | [↗](./0695-max-area-of-island/0695-max-area-of-island.java) | 39 | 2026-11-21 |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | Bracket Sequences, Dynamic Programming, Greedy, Stack, String | Java | [↗](./0678-valid-parenthesis-string/0678-valid-parenthesis-string.java) | 28 | 2026-10-05 |
 | 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | Simulation, String | Java | [↗](./0657-robot-return-to-origin/0657-robot-return-to-origin.java) | 16 | 2026-09-28 |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Dynamic Programming, Math, Memoization, Recursion | Java | [↗](./0509-fibonacci-number/0509-fibonacci-number.java) | 15 | 2026-10-03 |
@@ -113,7 +114,7 @@
 ## 🏷️ Browse by Topic
 
 <details>
-<summary><b>🏷️ Array (21)</b></summary>
+<summary><b>🏷️ Array (22)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
@@ -124,6 +125,7 @@
   | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2026-10-14 |
   | 0462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | 2026-11-02 |
   | 0486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | 2026-10-08 |
+  | 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 2026-11-21 |
   | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 2026-11-04 |
   | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | 2026-11-05 |
   | 0992 | [Subarrays With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 2026-11-05 |
@@ -179,12 +181,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Breadth-First Search (2)</b></summary>
+<summary><b>🏷️ Breadth-First Search (3)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0200 | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 2026-11-19 |
   | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 2026-09-22 |
+  | 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 2026-11-21 |
 
 </details>
 
@@ -216,11 +219,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Depth-First Search (1)</b></summary>
+<summary><b>🏷️ Depth-First Search (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0200 | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 2026-11-19 |
+  | 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 2026-11-21 |
 
 </details>
 
@@ -351,12 +355,13 @@
 </details>
 
 <details>
-<summary><b>🏷️ Matrix (3)</b></summary>
+<summary><b>🏷️ Matrix (4)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | 2026-11-05 |
   | 0200 | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 2026-11-19 |
+  | 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 2026-11-21 |
   | 3882 | [Minimum Xor Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | 2026-10-28 |
 
 </details>
@@ -487,11 +492,12 @@
 </details>
 
 <details>
-<summary><b>🏷️ Union-Find (1)</b></summary>
+<summary><b>🏷️ Union-Find (2)</b></summary>
 
   | # | Problem | Difficulty | Date |
   |:---:|:--------|:----------:|:----:|
   | 0200 | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 2026-11-19 |
+  | 0695 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 2026-11-21 |
 
 </details>
 

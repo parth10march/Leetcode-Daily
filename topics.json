@@ -86,6 +86,13 @@
     "Stack",
     "String"
   ],
+  "0695-max-area-of-island": [
+    "Array",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Matrix",
+    "Union-Find"
+  ],
   "0713-subarray-product-less-than-k": [
     "Array",
     "Binary Search",
