@@ -647,6 +647,7 @@ Leetcode-Daily/
 | [0410-split-array-largest-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parth10march/Leetcode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/parth10march/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+| [0695-max-area-of-island](https://github.com/parth10march/Leetcode-Daily/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/parth10march/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/parth10march/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth10march/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
@@ -666,6 +667,7 @@ Leetcode-Daily/
 | ------- |
 | [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/parth10march/Leetcode-Daily/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/parth10march/Leetcode-Daily/tree/master/0695-max-area-of-island) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -754,6 +756,7 @@ Leetcode-Daily/
 | ------- |
 | [0174-dungeon-game](https://github.com/parth10march/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parth10march/Leetcode-Daily/tree/master/0695-max-area-of-island) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parth10march/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -776,8 +779,10 @@ Leetcode-Daily/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parth10march/Leetcode-Daily/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parth10march/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parth10march/Leetcode-Daily/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
